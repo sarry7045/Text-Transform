@@ -43,7 +43,7 @@ function App() {
     <div className="App">
       <Router>
         <Navbar
-          title="React Practice Project"
+          title="Text Converter"
           mode={mode}
           toggleMode={toggleMode}
         />
